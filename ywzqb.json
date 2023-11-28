@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "🍥┃豆瓣┃软件接口免费,禁止贩卖🍥",
+      "name": "🍥┃豆瓣┃软件一次获取终身使用🍥",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -1585,7 +1585,7 @@
     },
     {
       "key": "提示",
-      "name": "公众号：多多影音",
+      "name": "观影软件",
       "type": 3,
       "api": "360",
       "searchable": 1,
@@ -1594,7 +1594,7 @@
     },
     {
       "key": "说明",
-      "name": "软件接口完全免费",
+      "name": "无需二次充值",
       "type": 3,
       "api": "360",
       "searchable": 1,
@@ -2256,6 +2256,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "https://tool.weetai.cn/api",
-  "warningText": "接口免费整理维护，请勿付费购买",
+  "warningText": "电视观影软件，一次获取终身使用",
   "spider": "https://jihulab.com/iduoduo/xduo/-/raw/main/main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
 }
