@@ -116,8 +116,8 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 1,
-      "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/一只蜗.json"
+      "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "https://jihulab.com/ywzq888/666/-/raw/main/json/一只蜗.json"
     },
     {
       "key": "49zy",
@@ -234,16 +234,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
-    },
-    {
-      "key": "csp_appysv2_毛子",
-      "name": "🐛┃毛子┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
     },
     {
       "key": "js_耐菲",
