@@ -13,6 +13,15 @@
       "ext": "https://jihulab.com/ywzq888/666/-/raw/main/js/douban.js"
     },
     {
+      "key": "js豆瓣备用",
+      "name": "🌞┃豆瓣备用┃🌞",
+      "type": 3,
+      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/doubanbf.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "csp_KungFu404",
       "name": "💠┃阿里┃设置",
       "type": 3,
@@ -226,6 +235,17 @@
       "filterable": 1,
       "ext": "https://aidiapp.xyz/xgapp.php/v2/"
     },
+        {
+     "key":"王朝",
+     "name":"🏰┃王朝┃影视",
+     "type":3,
+     "api":"csp_Yswc",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"",   
+     "jar":"https://jihulab.com/ywzq888/666/-/raw/main/jar/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
+    },
     {
       "key": "js_czsapp",
       "name": "🏭️┃厂长┃资源",
@@ -255,15 +275,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
-    {
-      "key": "Kuaikan",
-      "name": "🏎┃快看┃影视",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_beijihu",
@@ -632,15 +643,15 @@
      "api":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/libs/drpy.min.js",
      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/碟调影视.js"
     },
-    {
-     "key":"王朝",
-     "name":"🏰┃王朝┃影视",
-     "type":3,
-     "api":"csp_Yswc",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-     "ext":"",    "jar":"https://jihulab.com/ywzq888/666/-/raw/main/jar/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
+        {
+      "key":"快看影视",
+      "name":"🏎┃快看┃影视",
+      "type":3,
+      "api":"csp_Kuaikan",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "jar":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/jar/spider备用.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
     },
     {
       "key": "js_555",
@@ -832,7 +843,7 @@
     },
     {
       "key": "csp_MeiJu69",
-      "name": "🤙┃六九┃影视",
+      "name": "🗽┃六九┃美剧",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -978,7 +989,8 @@
       "api": "csp_Anime1",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/jar/main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
     },
     {
       "key": "csp_动漫巴士",
