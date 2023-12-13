@@ -13,15 +13,6 @@
       "ext": "https://jihulab.com/ywzq888/666/-/raw/main/js/douban.js"
     },
     {
-      "key": "js豆瓣备用",
-      "name": "🌞┃豆瓣备用┃🌞",
-      "type": 3,
-      "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/doubanbf.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "csp_KungFu404",
       "name": "💠┃阿里┃设置",
       "type": 3,
@@ -206,25 +197,25 @@
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
-      {
-            "key": "csp_ww",
-            "name": "🖐┃五五┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"ext":"https://gitee.com/YW66/66/raw/main/json/五五影视.json"
-        },
-{
-            "key": "陌陌",
-            "name": "🌺┃陌上┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
-        },
+    {
+      "key": "csp_ww",
+      "name": "🖐┃五五┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"ext":"https://gitee.com/YW66/66/raw/main/json/五五影视.json"
+   },
+   {
+      "key": "陌陌",
+      "name": "🌺┃陌上┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
     {
       "key": "csp_aidi",
       "name": "🤟┃爱迪┃高清",
@@ -322,7 +313,7 @@
         "日韩剧"
       ]
     },
-        {
+    {
       "key": "apv2_瑞丰",
       "name": "⛄┃瑞丰┃影视",
       "type": 3,
@@ -511,7 +502,7 @@
       ]
     },
    {
-      "key": "少泽影客（APP）",
+      "key": "少泽影客 APP",
       "name": "🌙┃少泽┃影客",
       "type": 3,
       "api": "csp_AppYsV2",
@@ -983,18 +974,25 @@
       }
     },
     {
+      "key":"AnFuns",
+      "name":"🌸┃海螺┃动漫",
+      "type":3,
+      "api":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/libs/drpy.min.js",
+      "ext":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/AnFuns.js"
+    },
+    {
       "key": "csp_Anime1",
-      "name": "🌸┃动漫┃系列",
+      "name": "🌸┃奥美┃动漫",
       "type": 3,
-      "api": "csp_Anime1",
+      "api": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/libs/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/jar/main.jar;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
+      "ext":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/Anime1.js"
     },
     {
       "key": "csp_动漫巴士",
-      "name": "🌸┃动漫┃巴士",
+      "name": "🌸┃巴士┃动漫",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
