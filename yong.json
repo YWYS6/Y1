@@ -1111,7 +1111,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/youer.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/youer.json"
     },
     {
       "key": "csp_Bili_xiaoxue",
@@ -1122,7 +1122,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiaoxue.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/xiaoxue.json"
     },
     {
       "key": "csp_Bili_czxx",
@@ -1133,7 +1133,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/chuzhong.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/chuzhong.json"
     },
     {
       "key": "csp_Bili_gaozxx",
@@ -1144,7 +1144,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/gaozhong.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/gaozhong.json"
     },
     {
       "key": "csp_Bili",
@@ -1155,7 +1155,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/bili.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/bili.json"
     },
     {
       "key": "js_B站精简",
@@ -1165,7 +1165,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/B站精简.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/B站精简.js"
     },
     {
       "key": "csp_Bili_dashan",
@@ -1176,7 +1176,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/搭讪.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/搭讪.json"
     },
     {
       "key": "csp_Bili__dapei",
@@ -1187,7 +1187,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/搭配.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/搭配.json"
     },
     {
       "key": "csp_Bili_Meinvw",
@@ -1198,7 +1198,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/meinv.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/meinv.json"
     },
     {
       "key": "csp_Bili_Nvtuan",
@@ -1209,7 +1209,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/nvtuan.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/nvtuan.json"
     },
     {
       "key": "MV_vod",
@@ -1229,7 +1229,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mtv.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/mtv.json"
     },
     {
       "key": "csp_Bili_Yinl2",
@@ -1240,7 +1240,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/yinyue.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/yinyue.json"
     },
     {
       "key": "js_酷狗MV",
@@ -1250,7 +1250,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/酷狗MV.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/酷狗MV.js"
     },
     {
       "key": "js_a8音乐",
@@ -1260,7 +1260,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/a8音乐.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/a8音乐.js"
     },
     {
       "key": "csp_酷奇",
@@ -1271,7 +1271,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/酷奇MV.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/酷奇MV.json"
     },
     {
       "key": "csp_Bili_xuqu1",
@@ -1282,7 +1282,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiqu.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/xiqu.json"
     },
     {
       "key": "csp_Bili_xiangsh",
@@ -1293,7 +1293,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/xiaopin.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/xiaopin.json"
     },
     {
       "key": "csp_Bili_zyy",
@@ -1304,7 +1304,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/zyy.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/zyy.json"
     },
     {
       "key": "csp_Bili_meishi",
@@ -1315,7 +1315,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/美食合集.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/美食合集.json"
     },
     {
       "key": "csp_Bili_TYjs",
@@ -1326,7 +1326,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/tiyu.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/tiyu.json"
     },
     {
       "key": "csp_Bili_FBqx",
@@ -1337,7 +1337,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/qiudui.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/qiudui.json"
     },
     {
       "key": "js_武享吧",
@@ -1347,7 +1347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/武享吧.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/武享吧.js"
     },
     {
       "key": "csp_鹅直播",
@@ -1357,7 +1357,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/qie.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/qie.json"
     },
     {
       "key": "js_88看球",
@@ -1367,7 +1367,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/88看球.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/88看球.js"
     },
     {
       "key": "js_直播",
@@ -1377,7 +1377,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/JRKAN.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/JRKAN.js"
     },
     {
       "key": "js_310直播",
@@ -1387,7 +1387,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/310.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/310.js"
     },
     {
      "key":"网络直播",
@@ -1404,7 +1404,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/pyhuya.py"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/pyhuya.py"
     },
     {
       "key": "csp_虎牙",
@@ -1415,7 +1415,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/虎牙.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/虎牙.json"
     },
     {
       "key": "js_斗鱼直播",
@@ -1425,7 +1425,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/斗鱼.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/斗鱼.js"
     },
     {
       "key": "js_哔哩直播",
@@ -1435,7 +1435,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/哔哩直播.js"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/哔哩直播.js"
     },
     {
       "key": "网易CC",
@@ -1445,7 +1445,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/网易CC.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/网易CC.json"
     },
     {
       "key": "push_agent",
