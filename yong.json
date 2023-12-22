@@ -397,7 +397,7 @@
       "playerType": 1,
       "api": "csp_XYQHiker",
       "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/港口.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/港口.json"
     },
     {
       "key": "csp_七夜",
@@ -737,7 +737,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/圣城.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/圣城.json"
     },
     {
      "key":"Cokemv",
@@ -788,7 +788,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/胖虎.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/胖虎.json"
     },
     {
       "key": "js_农民",
@@ -890,7 +890,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/达达龟.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/达达龟.json"
     },
     {
       "key":"雨晴",
@@ -911,7 +911,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/cctv.py"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/libs/cctv.py"
     },
     {
       "key": "短剧网",
@@ -945,7 +945,7 @@
       "filterable": 1,
       "api": "csp_XYQHiker",
       "jar": "https://jihulab.com/iduoduo/xduo/-/raw/main/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/VS影院.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/VS短剧.json"
     },
     {
       "key": "csp_XBPQ_aoaotv",
@@ -998,7 +998,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/动漫巴士.json"
+      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/动漫巴士.json"
     },
     {
       "key": "js58",
