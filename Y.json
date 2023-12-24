@@ -101,6 +101,14 @@
       "jar": "https://framagit.org/666/YW8/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
     },
     {
+     "key": "天天",
+     "name": "弹幕 | 天天[jar]",
+     "type": 3,
+     "api": "csp_TTian",
+     "playerType": 1,
+"jar":"https://framagit.org/666/YW8/-/raw/main/jar/pg.jar;md5;c77fd9af1aa038646d124958adf31d1b"
+    },
+    {
      "key":"csp_77",
      "name":"🌟┃七七┃影视",
      "type":3,
