@@ -104,6 +104,14 @@
       "jar": "https://framagit.org/666/YW8/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
     },
     {
+     "key":"天天", 
+     "name":"天天",
+     "type":3,
+     "api":"csp_TTian",
+     "playerType":1,
+     "ext":"http://op.ysdqjs.cn"
+    },
+    {
      "key":"csp_77",
      "name":"🌟┃七七┃影视",
      "type":3,
@@ -1080,7 +1088,7 @@
        "searchable":0,
        "quickSearch":1,
        "filterable":1,
-       "ext":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/小灯塔国学.json",
+       "ext":"https://framagit.org/666/YW8/-/raw/main/json/小灯塔国学.json",
        "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408"
     }, 
     {
