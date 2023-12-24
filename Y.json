@@ -72,12 +72,12 @@
       ]
     },
     {
-      "key": "花海",
-      "name": "💐┃花海┃影视",
-      "api": "csp_AppYs",
+      "key": "996影院",
+      "name": "影视 | 996[jar]",
       "type": 3,
-      "playerType": "2",
-      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "极速播",
@@ -631,7 +631,7 @@
      "key": "碟调影视",
      "name": "🍽┃碟调┃影视",
      "type": 3,
-     "api":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/libs/drpy.min.js",
+     "api":"https://framagit.org/666/YW8/-/raw/main/libs/drpy.min.js",
      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/碟调影视.js"
     },
         {
@@ -652,7 +652,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/gagakuai/tvbox/raw/master/lib/555.js"
+      "ext": "https://framagit.org/666/YW8/-/raw/main/json/555.json"
     },   
     {
       "key": "蜗牛有广告",
@@ -763,7 +763,7 @@
      "key":"大米星球",
      "name":"🥗┃大米┃影视",
      "type":3,
-     "api":"https://jihulab.com/ywzq888/666/-/raw/main/libs/drpy.min.js",
+     "api":"https://framagit.org/666/YW8/-/raw/main/libs/drpy.min.js",
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
@@ -977,18 +977,18 @@
       "key":"AnFuns",
       "name":"🌸┃海螺┃动漫",
       "type":3,
-      "api":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/libs/drpy.min.js",
-      "ext":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/AnFuns.js"
+      "api":"https://framagit.org/666/YW8/-/raw/main/libs/drpy.min.js",
+      "ext":"https://framagit.org/666/YW8/-/raw/main/js/AnFuns.js"
     },
     {
       "key": "csp_Anime1",
       "name": "🌸┃奥美┃动漫",
       "type": 3,
-      "api": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/libs/drpy.min.js",
+      "api": "https://framagit.org/666/YW8/-/raw/main/libs/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"https://codeberg.org/YONGWANG/YW666/raw/branch/main/js/Anime1.js"
+      "ext":"https://framagit.org/666/YW8/-/raw/main/js/Anime1.js"
     },
     {
       "key": "csp_动漫巴士",
@@ -1022,22 +1022,22 @@
       "key":"路漫漫",
       "name":"🌸┃路漫┃动漫",
       "type":3,
-      "api":"https://jihulab.com/ywzq888/666/-/raw/main/libs/drpy.min.js",
+      "api":"https://framagit.org/666/YW8/-/raw/main/libs/drpy.min.js",
       "ext":"https://jihulab.com/ywzq888/666/-/raw/main/js/路漫漫.js"
     },
     {
       "key": "去看吧",
       "name": "🌸┃去看┃动漫",
       "type": 3,
-      "api": "https://jihulab.com/ywzq888/666/-/raw/main/libs/drpy.min.js",
+      "api": "https://framagit.org/666/YW8/-/raw/main/libs/drpy.min.js",
       "ext": "https://framagit.org/666/YW8/-/raw/main/js/去看吧.js"
     },
         {
       "key": "爱弹幕",
       "name": "🌸┃爱弹┃动漫",
       "type": 3,
-      "api": "https://jihulab.com/ywzq888/666/-/raw/main/libs/drpy.min.js",
-      "ext": "https://codeberg.org/Pizazz/TVBox_warehouse/raw/branch/main/动漫/JS/爱弹幕.js"
+      "api": "https://framagit.org/666/YW8/-/raw/main/libs/drpy.min.js",
+      "ext": "https://framagit.org/666/YW8/-/raw/main/js/爱弹幕.js"
     },
         {
       "key": "维奇动漫",
@@ -1047,7 +1047,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext":"https://codeberg.org/Pizazz/TVBox_warehouse/raw/branch/main/动漫/XBPQ/维奇动漫.json"
+      "ext":"https://framagit.org/666/YW8/-/raw/main/json/维奇动漫.json"
     },
     {
       "key": "js_baby",
@@ -1111,7 +1111,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/youer.json"
+      "ext": "https://framagit.org/666/YW8/-/raw/main/json/youer.json"
     },
     {
       "key": "csp_Bili_xiaoxue",
@@ -1122,7 +1122,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "jar": "https://jihulab.com/ywzq888/666/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/json/xiaoxue.json"
+      "ext": "https://framagit.org/666/YW8/-/raw/main/json/xiaoxue.json"
     },
     {
       "key": "csp_Bili_czxx",
@@ -1393,7 +1393,7 @@
      "key":"网络直播",
      "name":"📽┃网络┃直播",
      "type":3,
-     "api":"https://jihulab.com/ywzq888/666/-/raw/main/libs/drpy.min.js",
+     "api":"https://framagit.org/666/YW8/-/raw/main/libs/drpy.min.js",
 "ext":"https://framagit.org/666/YW8/-/raw/main/js/JustLive.js"
     },
     {
