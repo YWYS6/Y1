@@ -1502,7 +1502,7 @@
   "lives": [
     {
       "name": "影视",
-      "url": "https://codeberg.org/YONGWANG/YW666/raw/branch/main/v.txt",
+      "url": "https://framagit.org/666/YW8/-/raw/main/V.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
