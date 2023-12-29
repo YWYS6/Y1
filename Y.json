@@ -331,16 +331,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_WoGG",
-      "name": "💂‍┃阿里┃玩偶",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://framagit.org/666/YW8/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
-    },
-    {
             "key": "csp_WoGG1",
             "name": "💂‍┃阿里┃FS",
             "type": 3,
@@ -372,6 +362,16 @@
       "filterable": 1,
       "jar": "https://framagit.org/666/YW8/-/raw/main/jar/jar.php?id=ou;md5;59a98ed1869e26027a3ff8d6070003f8",
       "ext": "https://framagit.org/666/YW8/-/raw/main/json/WOG.json"
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "💂‍┃阿里┃玩偶",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "https://framagit.org/666/YW8/-/raw/main/jar/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
     {
       "key": "js_6V",
