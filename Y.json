@@ -1370,6 +1370,15 @@
       "ext": "https://framagit.org/666/YW8/-/raw/main/js/88看球.js"
     },
     {
+     "key":"drpy_js_88看球",
+     "name":"体育 | 88看球[js]",
+     "type":3,
+     "api":"https://framagit.org/666/YW8/-/raw/main/libs/drpy2.min.js",
+     "changeable":0,
+     "style":{"type":"rect","ratio":1},
+     "ext":"https://framagit.org/666/YW8/-/raw/main/js/88看球.js"
+    },
+    {
       "key": "js_直播",
       "name": "📽┃JRK┃直播",
       "type": 3,
